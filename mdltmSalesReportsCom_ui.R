@@ -9,8 +9,9 @@ tabItem(tabName = "mdltmSalesReportsCom",
                                     #以上为注册ui组件的内容-----
                                     #begin----
                                     #uiComponent seperated by comma (,)
-                                    mdltmSalesReportsUI::shipmentAmountDailyUI()
-                                     
+                                    mdltmSalesReportsUI::shipmentAmountDailyUI(),
+                                    
+                                    mdltmSalesReportsUI::shipmentAmountWeeklyUI()
                                     
                                     
                                     #end----
